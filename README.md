@@ -33,3 +33,17 @@
     <td>Mexico</td>
   </tr>
 </table>
+
+
+<table>
+     <tr>
+          <th>who are you</th>
+          <th>heading 2</th>
+          <th>heading 3</th>
+     </tr>
+     <tr>
+          <td>okey 1</td>
+          <td>sec qstn 2</td>
+          <td>third sec red</td>
+     </tr>
+</table>
