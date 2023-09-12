@@ -14,3 +14,4 @@
      |-------------------------------------------------------   
 
 <h6 align=right> Hello World</h6>
+<input type=password> hello worlddd </input>
